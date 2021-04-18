@@ -1,0 +1,33 @@
+{
+    "name": "anti-vue",
+    "version": "4.2.0",
+    "private": true,
+    "scripts": {
+        "dev": "npm run serve",
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "babel-polyfill": "^6.26.0",
+        "bootstrap": "^4.5.2",
+        "default-passive-events": "^2.0.0",
+        "echarts": "^4.9.0",
+        "element-ui": "^2.11.0",
+        "jquery": "^3.5.1",
+        "lodash": "^4.17.20",
+        "mavon-editor": "^2.6.17",
+        "popper.js": "^1.16.1",
+        "vue": "^2.6.10",
+        "vue-cropperjs": "^3.0.0",
+        "vue-quill-editor": "^3.0.6",
+        "vue-router": "^3.3.4",
+        "vue-schart": "^2.0.0",
+        "vuedraggable": "^2.17.0"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.9.0",
+        "@vue/cli-service": "^3.9.0",
+        "vue-template-compiler": "^2.6.10"
+    }
+}

@@ -1,0 +1,5 @@
+MYSQL_DSN: "root:black4612@/"
+SESSION_SECRET: "security"
+GIN_MODE: "debug"
+LOG_LEVEL: "debug"
+ADMIN_PASSWORD: "11111111"
